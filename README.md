@@ -6,4 +6,4 @@ Fortunately, that era of madness is now over with this Chrome extension. `snippe
 
 ### How to install
 
-https://chrome.google.com/webstore/detail/snippet-copier-shortcut/clmacdbnemcndlnlpkdipclbcpdiabjd
+https://chrome.google.com/webstore/detail/snippet-copier-shortcut/clmacdbnemcndlnlpkdipclbcpdiabjd# snippet-copier-shortcut
